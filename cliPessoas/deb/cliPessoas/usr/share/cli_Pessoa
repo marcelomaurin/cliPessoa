@@ -1,0 +1,9 @@
+Section: erp
+Priority: optional
+Maintainer: marcelomaurinmartins@maurinsoft.com.br
+Homepage: http://www.maurinsoft.com.br
+Package: cli_Pessoa
+Architecture: amd64
+Version: 0.1
+Depends: mysql-server libmysqlclient-dev
+Description: Sample Client Mysql Application

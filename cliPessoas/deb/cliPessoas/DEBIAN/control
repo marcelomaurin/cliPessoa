@@ -1,0 +1,9 @@
+Package: cliPessoa
+Version: 0.1
+Section: custom
+Priority: optional
+Architecture: all
+Essential: no
+Installed-Size: 1024
+Maintainer: maurinsoft.com.br
+Description: Sample Client Mysql Application
